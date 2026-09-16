@@ -1,2 +1,1 @@
-# Mi portafolio Personal
-Autor: Michelle
+# Portafolio profesional de Michelle
